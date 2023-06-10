@@ -1,0 +1,11 @@
+@media (width<1200px){
+    .nav{
+        display: none;
+    }
+    .top2{
+        display: none;
+    }
+    #hrhide{
+        display: none;
+    }
+}
